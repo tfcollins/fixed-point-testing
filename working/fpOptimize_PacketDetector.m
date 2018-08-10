@@ -1,6 +1,6 @@
 
 
-model = 'Step2c';
+model = 'Receiver';
 sud = [model,'/HDL_DUT/PacketDetect/PD_Numeric'];
 open_system(model);
 
