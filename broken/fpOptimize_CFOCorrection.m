@@ -1,6 +1,6 @@
 
 
-model = 'Step2b';
+model = 'Receiver';
 sud = [model,'/HDL_DUT/CFOCorrection'];
 open_system(model);
 
